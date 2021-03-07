@@ -13,7 +13,7 @@ img{
   height:180px;
 }
 
-p{
+p1{
   color:#ff7300;
   font-size:30px;
   font-family:fantasy
@@ -38,12 +38,17 @@ p{
   border-radius:50%;
 }
 
+
+.books{
+background-color:crimson;      
+}
+
 h2{
     font-size:25px;
     color:cadetblue;
 }
 
-p1{
+p3{
     color:darkmagenta;
     font-family:cursive;
     
@@ -57,4 +62,40 @@ p2{
 h3{
     color:cadetblue;
     font-size: 30px;
+}
+
+p4{
+    color: coral;
+    font-size: 29px;
+}
+
+p5{
+    color:orchid;
+    font-size:25px;
+}
+
+p6{
+    color:orchid;
+    font-size:25px;
+}
+
+
+.dav{
+ border:10px solid #c7b000;
+    
+}
+
+.dami{
+ border:10px solid #c7b000;
+    
+}
+
+p7{
+    color: blueviolet;
+    font-size: 25px;
+}
+
+p8{
+    color: blueviolet;
+    font-size: 25px;
 }
